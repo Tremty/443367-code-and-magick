@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Екатерина Кутузова](https://up.htmlacademy.ru/javascript/14/user/443367).
-* Наставник: Кекс.
+* Наставник: Кексо.
 
 ---
 
